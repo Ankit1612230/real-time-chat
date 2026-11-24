@@ -75,6 +75,3 @@ All Connected Clients
 * Typing indicators
 * Online user tracking
 
-## Author
-Ankit
-
