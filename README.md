@@ -66,12 +66,5 @@ Spring Boot
 All Connected Clients
 ```
 
-## Future Improvements
 
-* Private messaging
-* User authentication
-* Chat rooms
-* Message persistence using a database
-* Typing indicators
-* Online user tracking
 
